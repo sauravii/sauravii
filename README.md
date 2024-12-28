@@ -16,7 +16,6 @@
 [<img align="left" alt="React" width="30px" src="./img/react.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Redux" width="30px" src="./img/redux.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="30px" src="./img/javascript.svg">][webdev]
-[<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap.svg" />][webdev]
 [<img align="left" alt="Git" width="30px" src="./img/git.svg" />][webdev]
 
 <br />
